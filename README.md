@@ -8,6 +8,8 @@
 
 Team A is made up of Jason Cheng, Lina Kang, and Joshua Prila. Team B has Rishon Dass and Amrutya LNU.
 - - -
-Professor Carol Davids - CS495 Multimedia Networking
+Professor Carol Davids
+
+CS495 Multimedia Networking
 
 Fall 2022
